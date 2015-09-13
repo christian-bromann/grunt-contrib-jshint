@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "hooker": "^0.2.3",
-    "jshint": "~2.8.0"
+    "jshint": "https://github.com/appium/appium-es7-jshint"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
@@ -32,6 +32,5 @@
   ],
   "files": [
     "tasks"
-  ],
-  "appveyor_id": "j04ik7qgx21ixyfw"
+  ]
 }
